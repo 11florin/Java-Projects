@@ -8,7 +8,7 @@ No external libraries – standard Java SDK only
 
 Getting Started
 
-Clone the repo:
+Clone the repo: https://github.com/11florin/Java-Projects.git
 
 Open the project in your favorite Java IDE.
 
